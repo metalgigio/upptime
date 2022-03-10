@@ -22,10 +22,10 @@
     "url": "https://www.cercasinonimi.it",
     "icon": "https://favicons.githubusercontent.com/www.cercasinonimi.it",
     "slug": "cerca-sinonimi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.93%",
     "time": 685,
@@ -34,6 +34,7 @@
     "timeMonth": 646,
     "timeYear": 685,
     "dailyMinutesDown": {
+      "2022-03-10": 1,
       "2022-02-17": 23,
       "2022-02-16": 25,
       "2022-02-13": 60
@@ -44,10 +45,10 @@
     "url": "https://www.cercarime.it",
     "icon": "https://favicons.githubusercontent.com/www.cercarime.it",
     "slug": "cerca-rime",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 684,
@@ -55,16 +56,18 @@
     "timeWeek": 639,
     "timeMonth": 679,
     "timeYear": 684,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-10": 1
+    }
   },
   {
     "name": "BuscaRimas",
     "url": "https://www.buscarimas.com",
     "icon": "https://favicons.githubusercontent.com/www.buscarimas.com",
     "slug": "busca-rimas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,6 +76,8 @@
     "timeWeek": 582,
     "timeMonth": 626,
     "timeYear": 648,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-10": 0
+    }
   }
 ]
