@@ -45,18 +45,20 @@
     "url": "https://www.cercarime.it",
     "icon": "https://favicons.githubusercontent.com/www.cercarime.it",
     "slug": "cerca-rime",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 687,
-    "timeDay": 742,
-    "timeWeek": 729,
+    "time": 686,
+    "timeDay": 711,
+    "timeWeek": 723,
     "timeMonth": 684,
-    "timeYear": 687,
-    "dailyMinutesDown": {}
+    "timeYear": 686,
+    "dailyMinutesDown": {
+      "2022-04-02": 0
+    }
   },
   {
     "name": "BuscaRimas",
