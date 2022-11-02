@@ -45,9 +45,9 @@
     "url": "https://www.cercarime.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.cercarime.it.ico",
     "slug": "cerca-rime",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
@@ -57,6 +57,7 @@
     "timeMonth": 920,
     "timeYear": 777,
     "dailyMinutesDown": {
+      "2022-11-02": 0,
       "2022-10-28": 32,
       "2022-04-02": 32
     }
