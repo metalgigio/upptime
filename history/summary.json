@@ -22,19 +22,19 @@
     "url": "https://www.cercasinonimi.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.cercasinonimi.it.ico",
     "slug": "cerca-sinonimi",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "94.35%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "93.46%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
     "time": 712,
-    "timeDay": 2464,
-    "timeWeek": 1294,
-    "timeMonth": 869,
+    "timeDay": 2012,
+    "timeWeek": 1230,
+    "timeMonth": 862,
     "timeYear": 719,
     "dailyMinutesDown": {
-      "2023-08-31": 81
+      "2023-08-31": 94
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://www.cercarime.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.cercarime.it.ico",
     "slug": "cerca-rime",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "93.67%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "92.78%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.97%",
     "time": 751,
-    "timeDay": 2568,
-    "timeWeek": 1471,
-    "timeMonth": 943,
-    "timeYear": 756,
+    "timeDay": 2170,
+    "timeWeek": 1390,
+    "timeMonth": 933,
+    "timeYear": 755,
     "dailyMinutesDown": {
-      "2023-08-31": 91,
+      "2023-08-31": 104,
       "2022-10-28": 32
     }
   },
@@ -63,19 +63,19 @@
     "url": "https://www.buscarimas.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.buscarimas.com.ico",
     "slug": "busca-rimas",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "93.73%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "92.84%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.98%",
     "time": 605,
-    "timeDay": 4282,
-    "timeWeek": 1511,
-    "timeMonth": 839,
+    "timeDay": 3055,
+    "timeWeek": 1410,
+    "timeMonth": 831,
     "timeYear": 612,
     "dailyMinutesDown": {
-      "2023-08-31": 90
+      "2023-08-31": 103
     }
   }
 ]
