@@ -22,19 +22,19 @@
     "url": "https://www.cercasinonimi.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.cercasinonimi.it.ico",
     "slug": "cerca-sinonimi",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
-    "time": 703,
-    "timeDay": 1224,
-    "timeWeek": 837,
-    "timeMonth": 741,
-    "timeYear": 707,
+    "uptimeDay": "94.49%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.98%",
+    "time": 712,
+    "timeDay": 2464,
+    "timeWeek": 1294,
+    "timeMonth": 869,
+    "timeYear": 719,
     "dailyMinutesDown": {
-      "2023-08-31": 23
+      "2023-08-31": 79
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cercarime.it.ico",
     "slug": "cerca-rime",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.48%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "94.41%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.98%",
     "time": 751,
     "timeDay": 2568,
     "timeWeek": 1471,
     "timeMonth": 943,
     "timeYear": 756,
     "dailyMinutesDown": {
-      "2023-08-31": 22,
+      "2023-08-31": 80,
       "2022-10-28": 32
     }
   },
@@ -64,18 +64,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.buscarimas.com.ico",
     "slug": "busca-rimas",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "94.47%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.98%",
     "time": 605,
     "timeDay": 4282,
     "timeWeek": 1511,
     "timeMonth": 839,
     "timeYear": 612,
     "dailyMinutesDown": {
-      "2023-08-31": 21
+      "2023-08-31": 80
     }
   }
 ]
