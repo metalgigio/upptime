@@ -22,10 +22,10 @@
     "url": "https://www.cercasinonimi.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.cercasinonimi.it.ico",
     "slug": "cerca-sinonimi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.98%",
     "time": 710,
@@ -34,6 +34,7 @@
     "timeMonth": 816,
     "timeYear": 717,
     "dailyMinutesDown": {
+      "2023-09-17": 1,
       "2023-08-31": 79
     }
   },
@@ -42,10 +43,10 @@
     "url": "https://www.cercarime.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.cercarime.it.ico",
     "slug": "cerca-rime",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.97%",
     "time": 748,
@@ -54,6 +55,7 @@
     "timeMonth": 903,
     "timeYear": 755,
     "dailyMinutesDown": {
+      "2023-09-17": 1,
       "2023-08-31": 104,
       "2022-10-28": 32
     }
@@ -63,9 +65,9 @@
     "url": "https://www.buscarimas.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.buscarimas.com.ico",
     "slug": "busca-rimas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.98%",
@@ -75,6 +77,7 @@
     "timeMonth": 821,
     "timeYear": 614,
     "dailyMinutesDown": {
+      "2023-09-17": 0,
       "2023-08-31": 103
     }
   }
