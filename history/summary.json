@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 214,
-    "timeDay": 28,
-    "timeWeek": 126,
-    "timeMonth": 179,
+    "timeDay": 29,
+    "timeWeek": 104,
+    "timeMonth": 173,
     "timeYear": 214,
     "dailyMinutesDown": {}
   },
@@ -24,17 +24,16 @@
     "slug": "cerca-sinonimi",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 706,
-    "timeDay": 881,
-    "timeWeek": 745,
-    "timeMonth": 707,
-    "timeYear": 716,
+    "time": 707,
+    "timeDay": 991,
+    "timeWeek": 787,
+    "timeMonth": 725,
+    "timeYear": 717,
     "dailyMinutesDown": {
-      "2023-11-25": 8,
       "2023-09-17": 17,
       "2023-08-31": 79
     }
@@ -51,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 758,
-    "timeDay": 721,
-    "timeWeek": 855,
-    "timeMonth": 736,
+    "timeDay": 881,
+    "timeWeek": 842,
+    "timeMonth": 747,
     "timeYear": 751,
     "dailyMinutesDown": {
       "2023-08-31": 104
@@ -70,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 604,
-    "timeDay": 745,
-    "timeWeek": 612,
-    "timeMonth": 584,
-    "timeYear": 603,
+    "time": 605,
+    "timeDay": 758,
+    "timeWeek": 647,
+    "timeMonth": 593,
+    "timeYear": 602,
     "dailyMinutesDown": {
       "2023-08-31": 103
     }
