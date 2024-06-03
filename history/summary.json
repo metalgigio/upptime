@@ -22,10 +22,10 @@
     "url": "https://www.cercasinonimi.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.cercasinonimi.it.ico",
     "slug": "cerca-sinonimi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 711,
@@ -34,6 +34,7 @@
     "timeMonth": 668,
     "timeYear": 705,
     "dailyMinutesDown": {
+      "2024-06-03": 1,
       "2023-09-17": 17,
       "2023-08-31": 79
     }
@@ -43,18 +44,19 @@
     "url": "https://www.cercarime.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.cercarime.it.ico",
     "slug": "cerca-rime",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 720,
+    "time": 721,
     "timeDay": 840,
     "timeWeek": 592,
     "timeMonth": 658,
     "timeYear": 721,
     "dailyMinutesDown": {
+      "2024-06-03": 1,
       "2023-08-31": 104
     }
   },
