@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 215,
-    "timeDay": 173,
-    "timeWeek": 200,
-    "timeMonth": 186,
-    "timeYear": 211,
+    "time": 216,
+    "timeDay": 257,
+    "timeWeek": 218,
+    "timeMonth": 191,
+    "timeYear": 212,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 707,
-    "timeDay": 520,
-    "timeWeek": 644,
-    "timeMonth": 654,
+    "timeDay": 535,
+    "timeWeek": 633,
+    "timeMonth": 651,
     "timeYear": 699,
     "dailyMinutesDown": {
       "2023-09-17": 17,
@@ -50,10 +50,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 717,
-    "timeDay": 518,
-    "timeWeek": 690,
-    "timeMonth": 651,
-    "timeYear": 710,
+    "timeDay": 642,
+    "timeWeek": 699,
+    "timeMonth": 655,
+    "timeYear": 711,
     "dailyMinutesDown": {
       "2023-08-31": 104
     }
@@ -70,12 +70,30 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 590,
-    "timeDay": 541,
-    "timeWeek": 554,
-    "timeMonth": 564,
-    "timeYear": 594,
+    "timeDay": 506,
+    "timeWeek": 544,
+    "timeMonth": 561,
+    "timeYear": 593,
     "dailyMinutesDown": {
       "2023-08-31": 103
     }
+  },
+  {
+    "name": "SearchRhymes",
+    "url": "https://www.searchrhymes.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.searchrhymes.com.ico",
+    "slug": "search-rhymes",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2094,
+    "timeDay": 2094,
+    "timeWeek": 2094,
+    "timeMonth": 2094,
+    "timeYear": 2094,
+    "dailyMinutesDown": {}
   }
 ]
