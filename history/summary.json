@@ -22,11 +22,11 @@
     "url": "https://www.cercasinonimi.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.cercasinonimi.it.ico",
     "slug": "cerca-sinonimi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 714,
     "timeDay": 898,
@@ -34,7 +34,7 @@
     "timeMonth": 769,
     "timeYear": 703,
     "dailyMinutesDown": {
-      "2024-09-16": 9
+      "2024-09-16": 0
     }
   },
   {
