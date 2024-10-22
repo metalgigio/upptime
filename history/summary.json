@@ -78,19 +78,19 @@
     "url": "https://www.searchrhymes.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.searchrhymes.com.ico",
     "slug": "search-rhymes",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1090,
-    "timeDay": 526,
-    "timeWeek": 991,
-    "timeMonth": 992,
-    "timeYear": 1090,
+    "time": 1088,
+    "timeDay": 716,
+    "timeWeek": 980,
+    "timeMonth": 989,
+    "timeYear": 1088,
     "dailyMinutesDown": {
-      "2024-10-22": 0
+      "2024-10-22": 7
     }
   }
 ]
