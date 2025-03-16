@@ -10,32 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 226,
-    "timeDay": 76,
-    "timeWeek": 140,
-    "timeMonth": 169,
+    "time": 225,
+    "timeDay": 61,
+    "timeWeek": 128,
+    "timeMonth": 165,
     "timeYear": 222,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "CercaSinonimi",
-    "url": "https://www.cercasinonimi.it",
-    "icon": "https://icons.duckduckgo.com/ip3/www.cercasinonimi.it.ico",
-    "slug": "cerca-sinonimi",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 735,
-    "timeDay": 553,
-    "timeWeek": 719,
-    "timeMonth": 900,
-    "timeYear": 740,
-    "dailyMinutesDown": {
-      "2024-09-16": 70
-    }
   },
   {
     "name": "CercaRime",
@@ -49,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 751,
-    "timeDay": 547,
-    "timeWeek": 594,
-    "timeMonth": 688,
-    "timeYear": 781,
+    "timeDay": 716,
+    "timeWeek": 630,
+    "timeMonth": 695,
+    "timeYear": 782,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 648,
-    "timeDay": 601,
-    "timeWeek": 718,
-    "timeMonth": 728,
-    "timeYear": 676,
+    "time": 649,
+    "timeDay": 764,
+    "timeWeek": 744,
+    "timeMonth": 735,
+    "timeYear": 677,
     "dailyMinutesDown": {}
   },
   {
@@ -85,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 880,
-    "timeDay": 462,
-    "timeWeek": 632,
-    "timeMonth": 684,
+    "timeDay": 700,
+    "timeWeek": 671,
+    "timeMonth": 693,
     "timeYear": 880,
     "dailyMinutesDown": {}
   }
