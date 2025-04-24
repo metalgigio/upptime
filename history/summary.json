@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 223,
-    "timeDay": 81,
-    "timeWeek": 157,
-    "timeMonth": 146,
-    "timeYear": 218,
+    "timeDay": 95,
+    "timeWeek": 161,
+    "timeMonth": 147,
+    "timeYear": 217,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://www.cercarime.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.cercarime.it.ico",
     "slug": "cerca-rime",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "96.56%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.99%",
     "time": 761,
-    "timeDay": 532,
-    "timeWeek": 872,
-    "timeMonth": 834,
+    "timeDay": 664,
+    "timeWeek": 874,
+    "timeMonth": 798,
     "timeYear": 797,
     "dailyMinutesDown": {
-      "2025-04-24": 0
+      "2025-04-24": 49
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 666,
-    "timeDay": 492,
-    "timeWeek": 830,
-    "timeMonth": 782,
-    "timeYear": 698,
+    "time": 669,
+    "timeDay": 1669,
+    "timeWeek": 987,
+    "timeMonth": 806,
+    "timeYear": 701,
     "dailyMinutesDown": {}
   },
   {
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 873,
-    "timeDay": 460,
-    "timeWeek": 791,
-    "timeMonth": 831,
+    "timeDay": 871,
+    "timeWeek": 832,
+    "timeMonth": 807,
     "timeYear": 873,
     "dailyMinutesDown": {}
   }
