@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 223,
-    "timeDay": 95,
-    "timeWeek": 161,
-    "timeMonth": 147,
-    "timeYear": 217,
+    "timeDay": 38,
+    "timeWeek": 139,
+    "timeMonth": 146,
+    "timeYear": 216,
     "dailyMinutesDown": {}
   },
   {
@@ -24,14 +24,14 @@
     "slug": "cerca-rime",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.56%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.51%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 761,
-    "timeDay": 664,
-    "timeWeek": 874,
-    "timeMonth": 798,
+    "timeDay": 633,
+    "timeWeek": 811,
+    "timeMonth": 804,
     "timeYear": 797,
     "dailyMinutesDown": {
       "2025-04-24": 49
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 669,
-    "timeDay": 1669,
-    "timeWeek": 987,
-    "timeMonth": 806,
+    "timeDay": 531,
+    "timeWeek": 904,
+    "timeMonth": 805,
     "timeYear": 701,
     "dailyMinutesDown": {}
   },
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 873,
-    "timeDay": 871,
-    "timeWeek": 832,
-    "timeMonth": 807,
-    "timeYear": 873,
+    "time": 871,
+    "timeDay": 434,
+    "timeWeek": 761,
+    "timeMonth": 799,
+    "timeYear": 871,
     "dailyMinutesDown": {}
   }
 ]
