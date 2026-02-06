@@ -60,9 +60,9 @@
     "url": "https://www.searchrhymes.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.searchrhymes.com.ico",
     "slug": "search-rhymes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,6 +71,8 @@
     "timeWeek": 866,
     "timeMonth": 746,
     "timeYear": 776,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-06": 0
+    }
   }
 ]
