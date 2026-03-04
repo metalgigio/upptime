@@ -42,19 +42,19 @@
     "url": "https://www.buscarimas.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.buscarimas.com.ico",
     "slug": "busca-rimas",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 798,
-    "timeDay": 594,
-    "timeWeek": 868,
-    "timeMonth": 834,
+    "timeDay": 626,
+    "timeWeek": 842,
+    "timeMonth": 828,
     "timeYear": 818,
     "dailyMinutesDown": {
-      "2026-03-04": 0
+      "2026-03-04": 14
     }
   },
   {
