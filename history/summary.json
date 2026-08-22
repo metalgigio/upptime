@@ -22,19 +22,20 @@
     "url": "https://www.cercarime.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.cercarime.it.ico",
     "slug": "cerca-rime",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 792,
+    "time": 791,
     "timeDay": 996,
     "timeWeek": 712,
     "timeMonth": 747,
     "timeYear": 789,
     "dailyMinutesDown": {
-      "2026-04-08": 66
+      "2026-04-08": 66,
+      "2026-08-22": 10
     }
   },
   {
@@ -42,19 +43,20 @@
     "url": "https://www.buscarimas.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.buscarimas.com.ico",
     "slug": "busca-rimas",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
-    "time": 794,
+    "time": 793,
     "timeDay": 1041,
     "timeWeek": 748,
     "timeMonth": 774,
     "timeYear": 785,
     "dailyMinutesDown": {
-      "2026-04-27": 134
+      "2026-04-27": 134,
+      "2026-08-22": 5
     }
   },
   {
@@ -62,9 +64,9 @@
     "url": "https://www.searchrhymes.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.searchrhymes.com.ico",
     "slug": "search-rhymes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -74,7 +76,8 @@
     "timeMonth": 886,
     "timeYear": 774,
     "dailyMinutesDown": {
-      "2026-02-06": 56
+      "2026-02-06": 56,
+      "2026-08-22": 0
     }
   }
 ]
