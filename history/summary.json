@@ -22,20 +22,20 @@
     "url": "https://www.cercarime.it",
     "icon": "https://icons.duckduckgo.com/ip3/www.cercarime.it.ico",
     "slug": "cerca-rime",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "96.77%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
     "time": 791,
-    "timeDay": 779,
-    "timeWeek": 693,
-    "timeMonth": 742,
+    "timeDay": 756,
+    "timeWeek": 695,
+    "timeMonth": 741,
     "timeYear": 788,
     "dailyMinutesDown": {
       "2026-04-08": 66,
-      "2026-08-22": 20
+      "2026-08-22": 46
     }
   },
   {
@@ -43,20 +43,20 @@
     "url": "https://www.buscarimas.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.buscarimas.com.ico",
     "slug": "busca-rimas",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 793,
-    "timeDay": 833,
-    "timeWeek": 733,
-    "timeMonth": 769,
-    "timeYear": 785,
+    "timeDay": 767,
+    "timeWeek": 722,
+    "timeMonth": 765,
+    "timeYear": 784,
     "dailyMinutesDown": {
       "2026-04-27": 134,
-      "2026-08-22": 2
+      "2026-08-22": 28
     }
   },
   {
@@ -64,20 +64,20 @@
     "url": "https://www.searchrhymes.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.searchrhymes.com.ico",
     "slug": "search-rhymes",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 772,
     "timeDay": 592,
-    "timeWeek": 1144,
-    "timeMonth": 873,
+    "timeWeek": 1083,
+    "timeMonth": 864,
     "timeYear": 773,
     "dailyMinutesDown": {
       "2026-02-06": 56,
-      "2026-08-22": 0
+      "2026-08-22": 26
     }
   }
 ]
